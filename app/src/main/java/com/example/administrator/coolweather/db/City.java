@@ -1,4 +1,4 @@
-package com.coolweather.android.db;
+package com.example.administrator.coolweather.db;
 
 import org.litepal.crud.DataSupport;
 
@@ -40,4 +40,5 @@ public class City extends DataSupport {
     {
         this.provinceId=provinceId;
     }
+
 }
